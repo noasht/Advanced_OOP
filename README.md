@@ -97,6 +97,12 @@ Added real-time race simulation with multithreading:
 - `finishFlag` - shared Boolean for finish notification
 - Synchronized blocks on animal movement to prevent race conditions
 
+  
+## 👩‍💻 Contributors
+Linoy Nisim Pur  
+Noa Shem Tov
+
+
 ---
 
 ## 📄 License
