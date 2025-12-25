@@ -1,4 +1,4 @@
-# Advanced Object Oriented Programming (Java)
+# Advanced Object Oriented Programming 
 
 🏆 Advanced OOP course assignments at SCE College of Engineering
  
